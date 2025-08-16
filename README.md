@@ -3,27 +3,27 @@
 
 <p align="center">
   <!-- Wavy banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Deena%20A.%20—%20Java%20Dev%20%7C%20UI%2FUX%20%7C%20IoT&fontAlign=50&fontAlignY=40&color=0:8A2BE2,50:FF1493,100:00BFFF&animation=fadeIn" alt="wavy-banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Deena%40A.%40—%40Java%20Dev%20%7C%20UI%2FUX%20%7C%20IoT&fontAlign=50&fontAlignY=40&color=0:8A2BE2,50:FF1493,100:00BFFF&animation=fadeIn" alt="wavy-banner"/>
 </p>
 
 <p align="center">
   <!-- Animated typing intro -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Hello%2C+World!+I'm+Deena+%F0%9F%91%8B;Java+Developer+%7C+UI%2FUX+Designer;IoT+%26+Embedded+Systems+Enthusiast;I+love+clean+code+%26+delightful+UX" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Hello%2C+World!+I'm+Deena+%F0%9F%91%8B;Java+Developer+%7C+UI%2FUX+Designer;I+love+clean+code+%26+delightful+UX" alt="typing" />
 </p>
 
 <p align="center">
   <!-- Views counter + followers -->
   <img src="https://komarev.com/ghpvc/?username=Deena-1420&label=Profile%20Views&style=flat" alt="views"/>
   <a href="https://github.com/Deena-1420?tab=followers"><img src="https://img.shields.io/github/followers/Deena-1420?label=Followers&style=flat" alt="followers"/></a>
-  <a href="mailto:adeenacse@gmail.com"><img src="https://img.shields.io/badge/Email-adeena-blue?logo=gmail" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/deena-a"><img src="https://img.shields.io/badge/LinkedIn-Deena%20A.-0A66C2?logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="mailto:salemdeena3e@gmail.com"><img src="https://img.shields.io/badge/Email-adeena-blue?logo=gmail" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/deena-a-622ab1320"><img src="https://img.shields.io/badge/LinkedIn-Deena%20A.-0A66C2?logo=linkedin&logoColor=white" alt="linkedin"/></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 3rd-year **CSE** student | Focus: **Java**, **UI/UX**, **IoT**
+* 🎓 final-year **ECE** student | Focus: **Java**, **WEB DEVELOPMENT**, **IoT**
 * 🧠 Building systems that blend **beautiful interfaces** with **smart AI/IoT**
 * ✨ Fun: turning ☕ into features and bugs into lessons
 
@@ -33,7 +33,7 @@
 
 <p align="center">
   <!-- One-line, clean skill icons -->
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react,spring,sqlite,mysql,git,github,figma,linux,vscode&perline=8" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,spring,sqlite,mysql,git,github,vscode&perline=8" alt="skills"/>
 </p>
 
 ---
@@ -90,53 +90,12 @@
 ## 🤝 Connect
 
 <p align="center">
-  <a href="mailto:adeenacse@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/deena-a"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:salemdeena3@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/deena-a-622ab1320"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Optional)
-
-> Enable this GitHub Action once to generate an animated snake eating your contributions.
-
-Add this file to `.github/workflows/snake.yml` in **any repo** (or your profile repo):
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule: [{ cron: "0 0 * * *" }]  # every day at 00:00 UTC
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Deena-1420
-          outputs: |
-            dist/snake.svg
-      - name: Push snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then embed it in this README:
-
-```md
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Deena-1420/Deena-1420/output/snake.svg" alt="snake"/>
-</p>
-```
-
----
 
 ### ✅ Setup Notes
 
