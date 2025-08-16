@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- Wavy banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Deena%40A.%40—%40Java%20Dev%20%7C%20UI%2FUX%20%7C%20IoT&fontAlign=50&fontAlignY=40&color=0:8A2BE2,50:FF1493,100:00BFFF&animation=fadeIn" alt="wavy-banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Deena%20A&fontAlign=50&fontAlignY=40&color=0:8A2BE2,50:FF1493,100:00BFFF&animation=fadeIn" alt="wavy-banner"/>
 </p>
 
 <p align="center">
@@ -96,14 +96,6 @@
 
 ---
 
-
-### ✅ Setup Notes
-
-* Create a **public repo named exactly `Deena-1420`** and put this README content in it.
-* Ensure your username in all image URLs is **`Deena-1420`** (already set here).
-* If any image/card doesn’t load, just refresh — these are free services that occasionally rate-limit.
-
----
 
 <p align="center">
   <sub>Made with ❤️ — inspired by awesome OSS widgets like Vercel Stats, Streak Stats, Trophies, and Skill Icons.</sub>
