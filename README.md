@@ -1,16 +1,151 @@
-## Hi there 👋
 
-<!--
-**Deena-1420/Deena-1420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 Hi, I'm Deena!
 
-Here are some ideas to get you started:
+<p align="center">
+  <!-- Wavy banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Deena%20A.%20—%20Java%20Dev%20%7C%20UI%2FUX%20%7C%20IoT&fontAlign=50&fontAlignY=40&color=0:8A2BE2,50:FF1493,100:00BFFF&animation=fadeIn" alt="wavy-banner"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <!-- Animated typing intro -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Hello%2C+World!+I'm+Deena+%F0%9F%91%8B;Java+Developer+%7C+UI%2FUX+Designer;IoT+%26+Embedded+Systems+Enthusiast;I+love+clean+code+%26+delightful+UX" alt="typing" />
+</p>
+
+<p align="center">
+  <!-- Views counter + followers -->
+  <img src="https://komarev.com/ghpvc/?username=Deena-1420&label=Profile%20Views&style=flat" alt="views"/>
+  <a href="https://github.com/Deena-1420?tab=followers"><img src="https://img.shields.io/github/followers/Deena-1420?label=Followers&style=flat" alt="followers"/></a>
+  <a href="mailto:adeenacse@gmail.com"><img src="https://img.shields.io/badge/Email-adeena-blue?logo=gmail" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/deena-a"><img src="https://img.shields.io/badge/LinkedIn-Deena%20A.-0A66C2?logo=linkedin&logoColor=white" alt="linkedin"/></a>
+</p>
+
+---
+
+## 🚀 About Me
+
+* 🎓 3rd-year **CSE** student | Focus: **Java**, **UI/UX**, **IoT**
+* 🧠 Building systems that blend **beautiful interfaces** with **smart AI/IoT**
+* ✨ Fun: turning ☕ into features and bugs into lessons
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <!-- One-line, clean skill icons -->
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react,spring,sqlite,mysql,git,github,figma,linux,vscode&perline=8" alt="skills"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+> A few highlights — more in my pinned repos 👇
+
+* **🎯 Sentiment Analysis App** — Real-time text sentiment with Streamlit + Transformers
+  `Python · NLP · Streamlit`
+  🔗 [https://github.com/Deena-1420/sentiment-analysis-app](https://github.com/Deena-1420/sentiment-analysis-app)
+
+* **🌐 Portfolio Website** — Personal portfolio showcasing projects & skills
+  `HTML · CSS · JavaScript`
+  🔗 [https://github.com/Deena-1420/portfolio](https://github.com/Deena-1420/portfolio)
+
+* **📊 GitHub Profile Visualizer** — Visualizes GitHub stats/activity
+  `HTML · CSS`
+  🔗 [https://github.com/Deena-1420/github-profile-visualizer](https://github.com/Deena-1420/github-profile-visualizer)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Deena-1420&show_icons=true&rank_icon=github&include_all_commits=true&theme=radical" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Deena-1420&theme=radical" />
+</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deena-1420&layout=compact&langs_count=8&theme=radical" />
+</p>
+
+---
+
+## 🏆 Trophies & Activity
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Deena-1420&theme=radical&margin-w=10&margin-h=10&no-frame=true" alt="trophies"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deena-1420&theme=github-compact" alt="activity-graph"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+* Advanced **Java & Spring Boot**
+* **React** for rich front-ends
+* **ESP32 + AI** for smart IoT
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="mailto:adeenacse@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/deena-a"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 🐍 Contribution Snake (Optional)
+
+> Enable this GitHub Action once to generate an animated snake eating your contributions.
+
+Add this file to `.github/workflows/snake.yml` in **any repo** (or your profile repo):
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule: [{ cron: "0 0 * * *" }]  # every day at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Deena-1420
+          outputs: |
+            dist/snake.svg
+      - name: Push snake.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then embed it in this README:
+
+```md
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deena-1420/Deena-1420/output/snake.svg" alt="snake"/>
+</p>
+```
+
+---
+
+### ✅ Setup Notes
+
+* Create a **public repo named exactly `Deena-1420`** and put this README content in it.
+* Ensure your username in all image URLs is **`Deena-1420`** (already set here).
+* If any image/card doesn’t load, just refresh — these are free services that occasionally rate-limit.
+
+---
+
+<p align="center">
+  <sub>Made with ❤️ — inspired by awesome OSS widgets like Vercel Stats, Streak Stats, Trophies, and Skill Icons.</sub>
+</p>
