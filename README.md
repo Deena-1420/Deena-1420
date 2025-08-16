@@ -55,6 +55,8 @@
   🔗 [https://github.com/Deena-1420/github-profile-visualizer](https://github.com/Deena-1420/github-profile-visualizer)
 
 ---
+![LeetCode Stats](https://leetcard.jacoblin.cool/Deena1420?theme=dark&font=Karma&ext=heatmap)
+
 
 ## 📊 GitHub Analytics
 
